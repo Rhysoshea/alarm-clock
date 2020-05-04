@@ -1,9 +1,5 @@
 from flask import Flask, render_template, flash, request
 from config import Config
-import schedule
-import time
-import webbrowser, os, sys
-
 
 # App config.
 DEBUG = True
