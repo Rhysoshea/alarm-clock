@@ -1,0 +1,1 @@
+timeout 1m chromium-browser www.youtube.com/watch?v=5qap5aO4i9A -start-fullscreen
